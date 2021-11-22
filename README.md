@@ -16,7 +16,7 @@
 <ul>
 <li>Imagenet2012 validation set data is placed in <code>./data/imagenet2012/val</code></li>
 </ul>
-<p><img src="" alt="">
+<p><img src="https://github.com/yangyunfei16/DBIA/blob/main/DBIA/pictures/data_preparation.png" alt="data preparation">
 
 </p>
 <h3>Starting Poisoning</h3>
